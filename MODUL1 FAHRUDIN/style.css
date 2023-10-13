@@ -1,0 +1,25 @@
+
+
+.photos{
+    width: 250px;
+}
+
+.welcome{
+    font-size: 50px;
+}
+
+.summary{
+    margin-left: 95px;
+}
+
+.experience{
+    margin-left: 95px;
+}
+
+.form{
+    margin-left: 95px;
+}
+
+.pagination{
+    align-items: center;
+}
